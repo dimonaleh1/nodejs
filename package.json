@@ -11,7 +11,8 @@
     "mongodb": "^2.2.25",
     "node-static": "^0.7.9",
     "nodemon": "^1.11.0",
-    "socket.io": "^1.7.3"
+    "socket.io": "^1.7.3",
+    "ws": "^2.3.1"
   },
   "devDependencies": {},
   "scripts": {
